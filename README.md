@@ -1,4 +1,4 @@
-## **THP AI API ** ▵
+## **THP AI API** ▵
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue)](#license)
 [![TypeScript](https://img.shields.io/badge/TypeScript-4.x-blue)](https://www.typescriptlang.org/)
